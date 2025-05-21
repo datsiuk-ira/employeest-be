@@ -1,5 +1,3 @@
-import copy
-
 def get_base_pie_chart_config():
     return {
         'type': 'pie',
